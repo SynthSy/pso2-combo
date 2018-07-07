@@ -1,1 +1,1 @@
-pso2-combo
+## PSO2 Damage Simulator translator
