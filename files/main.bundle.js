@@ -48218,7 +48218,7 @@ webpackJsonp([0], {
                 }, t.prototype.createURL = function() {
                     this.pusher = this.database.ref("/pub/").push(), this.id = this.pusher.key, this.pusher.set({
                         data: this.combos
-                    }), this.url = "http://pso2-combo.appspot.com/" + this.id
+                    }), this.url = "https://pso2c.kyata.work/" + this.id
                 }, t.prototype.readTest = function(t) {
                     var e = this;
                     this.snackBar.open("Loading from URL...", "", {
@@ -48245,10 +48245,10 @@ webpackJsonp([0], {
                                 }
                                 e.combos[n].selectedCalc = e.combos[n].calcs[0]
                             }
-                            e.snackBar.open("URL\u304b\u3089\u8aad\u307f\u8fbc\u307f\u307e\u3057\u305f", "\u9589\u3058\u308b", {
+                            e.snackBar.open("Imported from URL", "Close", {
                                 duration: 6e3
                             })
-                        } else e.snackBar.open("URL\u304b\u3089\u8aad\u307f\u8fbc\u3081\u307e\u305b\u3093\u3067\u3057\u305f", "\u9589\u3058\u308b", {
+                        } else e.snackBar.open("Could not parse URL", "Close", {
                             duration: 0
                         });
                         e.getData()
