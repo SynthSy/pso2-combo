@@ -6,8 +6,8 @@
 // @match        https://pso2c.kyata.work/*
 // @grant        none
 // @run-at       document-start
-// @updateURL    https://raw.githubusercontent.com/SynthSy/pso2-combo/master/files/translator.js
-// @downloadURL  https://raw.githubusercontent.com/SynthSy/pso2-combo/master/files/translator.js
+// @updateURL    https://raw.githubusercontent.com/SynthSy/pso2-combo/master/files/translator.user.js
+// @downloadURL  https://raw.githubusercontent.com/SynthSy/pso2-combo/master/files/translator.user.js
 // @connect      https://arks-layer.com/
 // ==/UserScript==
 
