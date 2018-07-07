@@ -33874,7 +33874,7 @@ webpackJsonp([0], {
                 color: [0, "color"]
             }, null), ra._21(603979776, 2, {
                 _toolbarRows: 1
-            }), (t()(), ra._23(-1, 0, ["\n  PSO2 Combo Simulator EN v0.1\n  "])), (t()(), ra._5(7, 0, null, 0, 0, "span", [
+            }), (t()(), ra._23(-1, 0, ["\n  PSO2 Damage Simulator EN v0.1\n  "])), (t()(), ra._5(7, 0, null, 0, 0, "span", [
                 ["class", "spacer"]
             ], null, null, null, null, null)), (t()(), ra._23(-1, 0, ["\n  "])), (t()(), ra._23(-1, 0, ["\n  "])), (t()(), ra._23(-1, 0, ["\n  "])), (t()(), ra._23(-1, 0, ["\n  "])), (t()(), ra._5(12, 0, null, 0, 5, "button", [
                 ["class", "mat-icon-button"],
