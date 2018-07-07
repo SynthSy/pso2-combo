@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         PSO2 Combo Simulator Translator
-// @version      0.4
+// @version      0.5
 // @description  Translates the new damage sim
 // @author       SynthSy
 // @match        https://pso2c.kyata.work/*
