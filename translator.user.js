@@ -6,8 +6,8 @@
 // @match        https://pso2c.kyata.work/*
 // @grant        none
 // @run-at       document-start
-// @updateURL    https://raw.githubusercontent.com/SynthSy/pso2-combo/master/files/translator.js
-// @downloadURL  https://raw.githubusercontent.com/SynthSy/pso2-combo/master/files/translator.js
+// @updateURL    https://github.com/SynthSy/pso2-combo/raw/master/translator.user.js
+// @downloadURL  https://github.com/SynthSy/pso2-combo/raw/master/translator.user.js
 // ==/UserScript==
 
 var newJSFile = "https://synthsy.github.io/pso2-combo/files/main.bundle.js";
