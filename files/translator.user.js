@@ -4,7 +4,7 @@
 // @description  Translates the new damage sim
 // @author       SynthSy
 // @match        https://pso2c.kyata.work/*
-// @grant        none
+// @grant        unsafeWindow
 // @run-at       document-start
 // @namespace    https://github.com/SynthSy/pso2-combo
 // @updateURL    https://raw.githubusercontent.com/SynthSy/pso2-combo/master/files/translator.user.js
