@@ -48218,7 +48218,7 @@ webpackJsonp([0], {
                 }, t.prototype.createURL = function() {
                     this.pusher = this.database.ref("/pub/").push(), this.id = this.pusher.key, this.pusher.set({
                         data: this.combos
-                    }), this.url = "https://synthsy.github.io/" + this.id
+                    }), this.url = "http://pso2-combo.appspot.com/" + this.id
                 }, t.prototype.readTest = function(t) {
                     var e = this;
                     this.snackBar.open("Loading from URL...", "", {
