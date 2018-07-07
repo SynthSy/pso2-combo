@@ -11,7 +11,7 @@
 // @downloadURL  https://github.com/SynthSy/pso2-combo/raw/master/translator.user.js
 // ==/UserScript==
 
-var newJSFile = "https://cdn.rawgit.com/SynthSy/pso2-combo/master/files/main.bundle.js";
+var newJSFile = "https://cdn.rawgit.com/SynthSy/pso2-combo/bbefecf00d697c22b216dc9c7fd39be5be7c506a/files/main.bundle.js";
 
 var oldJSFile = "main.914577bef226e3b0e84f.bundle.js";
 
