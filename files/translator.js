@@ -8,6 +8,7 @@
 // @run-at       document-start
 // @updateURL    https://raw.githubusercontent.com/SynthSy/pso2-combo/master/files/translator.js
 // @downloadURL  https://raw.githubusercontent.com/SynthSy/pso2-combo/master/files/translator.js
+// @connect      https://arks-layer.com/
 // ==/UserScript==
 
 var newJSFile = "https://synthsy.github.io/pso2-combo/files/main.bundle.js";
