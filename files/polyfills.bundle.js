@@ -1,4 +1,4 @@
-webpackJsonp([1], {
+Jsonp([1], {
     "+GRi": function(e, t, n) {
         var r = n("Wo2w"),
             o = n("Wy9r");
