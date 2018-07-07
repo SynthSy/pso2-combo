@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         PSO2 Combo Simulator Translator
-// @version      0.8
+// @version      0.9
 // @description  Translates the new damage sim
 // @author       SynthSy
 // @match        https://pso2c.kyata.work/*
 // @grant        none
 // @run-at       document-start
+// @namespace    https://arks-layer.com/
 // @updateURL    https://github.com/SynthSy/pso2-combo/raw/master/translator.user.js
 // @downloadURL  https://github.com/SynthSy/pso2-combo/raw/master/translator.user.js
 // ==/UserScript==
