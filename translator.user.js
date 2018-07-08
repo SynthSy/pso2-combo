@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         PSO2 Combo Simulator Translator
-// @version      1.0
+// @version      1.0.1
 // @description  Translates the new damage sim
 // @author       SynthSy
 // @match        https://pso2c.kyata.work/*
@@ -11,7 +11,7 @@
 // @downloadURL  https://github.com/SynthSy/pso2-combo/raw/master/translator.user.js
 // ==/UserScript==
 
-var newJSFile = "https://cdn.rawgit.com/SynthSy/pso2-combo/bbefecf00d697c22b216dc9c7fd39be5be7c506a/files/main.bundle.js";
+var newJSFile = "https://cdn.rawgit.com/SynthSy/pso2-combo/f02ba1f3a51a983dd327853b281eae6dd16c7ab6/files/main.min.js";
 
 var oldJSFile = "main.914577bef226e3b0e84f.bundle.js";
 
