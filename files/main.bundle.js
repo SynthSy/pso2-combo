@@ -33813,7 +33813,7 @@ webpackJsonp([0], {
                 [199, 4]
             ], Nh, null, [Ed]), (t()(), ra._23(-1, 1, ["\n              "])), (t()(), ra._23(-1, 2, ["\n              "])), (t()(), ra._5(31, 0, null, 2, 1, "span", [
                 ["class", "combo_title"]
-            ], null, null, null, null, null)), (t()(), ra._23(32, null, ["Damage Calculated:", ", DPS:", ", DPP:", ""])), (t()(), ra._23(-1, 2, ["\n            "])), (t()(), ra._23(34, 1, ["\n            \u5408\u8a08", "F (", "\u79d2) \u5408\u8a08", "PP\n            "])), (t()(), ra._0(16777216, null, 1, 1, null, Bi)), ra._4(36, 802816, null, 0, ba, [ra.O, ra.L, ra.r], {
+            ], null, null, null, null, null)), (t()(), ra._23(32, null, ["Damage Calculated:", ", DPS:", ", DPP:", ""])), (t()(), ra._23(-1, 2, ["\n            "])), (t()(), ra._23(34, 1, ["\n            Total ", "F (", " seconds) Total ", "PP\n            "])), (t()(), ra._0(16777216, null, 1, 1, null, Bi)), ra._4(36, 802816, null, 0, ba, [ra.O, ra.L, ra.r], {
                 ngForOf: [0, "ngForOf"]
             }, null), (t()(), ra._23(-1, 1, ["\n            "])), (t()(), ra._5(38, 0, null, 1, 16, "div", [], null, null, null, null, null)), (t()(), ra._23(-1, null, ["\n              "])), (t()(), ra._5(40, 0, null, null, 3, "button", [
                 ["class", "mat-raised-button"],
