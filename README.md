@@ -1,4 +1,7 @@
-# PSO2 Damage Simulator translator
+# **DEPRECATED**
+taka24885 has added English support into the new sim, thus this script isn't needed anymore.
+
+# **DEPRECATED** PSO2 Damage Simulator translator
 Translates the new damage simulator https://pso2c.kyata.work/ that was created taka24885
 
 ## Requirements
