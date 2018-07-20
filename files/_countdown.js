@@ -9,7 +9,7 @@ $(function(){
 	var cdwn = {
 		element : $('#countdown')	// 表示要素
 	};
-	cdwn.targetTime = new Date(2018, 3, 24, 12, 0, 0);	// 目標日時（月は0～11）
+	cdwn.targetTime = new Date(2018, 6, 24, 12, 0, 0);	// 目標日時（月は0～11）
 
 /* ---------------- codes ---------------- */
 
